@@ -1,19 +1,5 @@
-# eslint-plugin-import
 
-[![github actions][actions-image]][actions-url]
-[![travis-ci](https://travis-ci.org/import-js/eslint-plugin-import.svg?branch=main)](https://travis-ci.org/import-js/eslint-plugin-import)
-[![coverage][codecov-image]][codecov-url]
-[![win32 build status](https://ci.appveyor.com/api/projects/status/3mw2fifalmjlqf56/branch/main?svg=true)](https://ci.appveyor.com/project/import-js/eslint-plugin-import/branch/main)
-[![npm](https://img.shields.io/npm/v/eslint-plugin-import.svg)](https://www.npmjs.com/package/eslint-plugin-import)
-[![npm downloads](https://img.shields.io/npm/dt/eslint-plugin-import.svg?maxAge=2592000)](https://www.npmtrends.com/eslint-plugin-import)
-
-This plugin intends to support linting of ES2015+ (ES6+) import/export syntax, and prevent issues with misspelling of file paths and import names. All the goodness that the ES2015+ static module syntax intends to provide, marked up in your editor.
-
-**IF YOU ARE USING THIS WITH SUBLIME**: see the [bottom section](#sublimelinter-eslint) for important info.
-India's AI-Powered Startup Battle Platform
-<img width="485" height="766" alt="Screenshot from 2026-03-11 07-56-46" src="https://github.com/user-attachments/assets/0b08324c-3f14-4eb4-a99a-a922be7b2a10" />,<img width="485" height="766" alt="Screenshot from 2026-03-11 07-56-58" src="https://github.com/user-attachments/assets/3eeb616d-3055-4087-942a-c93d528b61a0" />
-<img width="485" height="766" alt="Screenshot from 2026-03-11 07-56-58" src="https://github.com/user-attachments/assets/cbcb008b-8ee6-4e9f-a25f-4720adaafe72" />,<img width="485" height="766" alt="Screenshot from 2026-03-11 07-57-05" src="https://github.com/user-attachments/assets/b0f90d0d-2b52-474d-b183-ab9da1ce2cc9" />
-<img width="451" height="733" alt="Screenshot from 2026-03-11 07-57-42" src="https://github.com/user-attachments/assets/656b3b6e-9040-448c-a642-82888536f768" />,<img width="451" height="733" alt="Screenshot from 2026-03-11 07-58-09" src="https://github.com/user-attachments/assets/171fc7de-72fd-4170-a0ee-b81eb7f0bcce" />
+<img width="1209" height="479" alt="Screenshot from 2026-03-25 12-58-28" src="https://github.com/user-attachments/assets/b8a252af-48c2-44bb-af05-180acc3936b0" />
 
 
 StartupWar is a futuristic platform where founders, builders, and innovators can validate startup ideas using powerful AI analysis and compete in a dynamic startup battle arena.
